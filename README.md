@@ -1,19 +1,3 @@
-Funtion yang mesti dipelajari
+# Forkify Project
 
----------
-splice()
-slice()
-some()
-Array From()
-findIndex()
-join()
-bind()
-addEventListener()
-Object.fromEntries()
-----------
-
-startWith()
-replaceAll()
-await ()
-race()
-some()
+this is project Udemy Learning Javascript Fundamental Portfolio Raka Hikmah Ramadhan
